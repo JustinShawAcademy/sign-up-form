@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+}
+
+.left-panel {
+    flex: 0 0 40%; 
+    background-image: url('assets/image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.right-panel {
+    display: flex;
+    flex-direction: column;
+}
