@@ -1,6 +1,6 @@
 # Sign-Up Form Project
 
-A responsive sign-up form built with HTML and CSS, featuring a modern two-panel layout with form validation fields.
+A sign-up form [website](https://justinshawacademy.github.io/sign-up-form/) built with HTML and CSS, featuring a modern two-panel layout with form validation fields.
 
 ## Programming Fundamentals Learned
 
